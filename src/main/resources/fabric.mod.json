@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "id": "neotesting",
+  "id": "the_lost_rooms",
   "version": "1.0.0",
-  "name": "neotesting",
+  "name": "The Lost Rooms",
   "authors": [
-    "58847800, MCreator"
+    "TrueJustNeon, FruFru0101"
   ],
   "contact": {
     "homepage": "https://mcreator.net",
@@ -14,7 +14,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.mcreator.neotesting.NeotestingMod"
+      "net.mcreator.neotesting.TheLostRoomsMod"
     ],
     "client": [
       "net.mcreator.neotesting.ClientInit"

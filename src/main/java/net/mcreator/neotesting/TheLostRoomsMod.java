@@ -17,13 +17,13 @@ import org.apache.logging.log4j.LogManager;
 
 import net.fabricmc.api.ModInitializer;
 
-public class NeotestingMod implements ModInitializer {
+public class TheLostRoomsMod implements ModInitializer {
 	public static final Logger LOGGER = LogManager.getLogger();
-	public static final String MODID = "neotesting";
+	public static final String MODID = "the_lost_rooms";
 
 	@Override
 	public void onInitialize() {
-		LOGGER.info("Initializing NeotestingMod");
+		LOGGER.info("Initializing TheLostRoomsMod");
 
 	}
 }

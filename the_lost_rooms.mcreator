@@ -10,10 +10,10 @@
     "children": []
   },
   "workspaceSettings": {
-    "modid": "neotesting",
-    "modName": "neotesting",
+    "modid": "the_lost_rooms",
+    "modName": "The Lost Rooms",
     "version": "1.0.0",
-    "author": "58847800, MCreator",
+    "author": "TrueJustNeon, FruFru0101",
     "websiteURL": "https://mcreator.net",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
@@ -23,6 +23,7 @@
     "dependants": [],
     "mcreatorDependencies": [],
     "currentGenerator": "fabric-1.20.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
     "modElementsPackage": "net.mcreator.neotesting",
     "lockBaseModFiles": false
   },
