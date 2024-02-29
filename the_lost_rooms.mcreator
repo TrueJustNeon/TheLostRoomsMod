@@ -13,6 +13,7 @@
     {
       "name": "Level0Wall",
       "type": "block",
+      "sortid": 2,
       "compiles": true,
       "locked_code": false,
       "registry_name": "level_0_wall",
@@ -24,6 +25,22 @@
           "src/main/resources/assets/the_lost_rooms/blockstates/level_0_wall.json"
         ]
       }
+    },
+    {
+      "name": "Level0Floor",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "level_0_floor",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/the_lost_rooms/models/block/level_0_floor.json",
+          "src/main/java/net/mcreator/neotesting/block/Level0FloorBlock.java",
+          "src/main/resources/assets/the_lost_rooms/blockstates/level_0_floor.json",
+          "src/main/resources/assets/the_lost_rooms/models/item/level_0_floor.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -31,6 +48,7 @@
   "language_map": {
     "en_us": {
       "block.the_lost_rooms.level_0_wall": "Level 0 Wall",
+      "block.the_lost_rooms.level_0_floor": "Level 0 Floor",
       "item_group.the_lost_rooms.the_lost_rooms": "The Lost Rooms"
     }
   },

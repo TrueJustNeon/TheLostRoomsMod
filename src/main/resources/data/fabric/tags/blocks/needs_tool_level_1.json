@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
+    "the_lost_rooms:level_0_floor",
     "the_lost_rooms:level_0_wall"
   ]
 }
