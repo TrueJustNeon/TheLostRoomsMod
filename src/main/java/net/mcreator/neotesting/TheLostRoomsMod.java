@@ -15,6 +15,10 @@ package net.mcreator.neotesting;
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
 
+import net.mcreator.neotesting.init.TheLostRoomsModTabs;
+import net.mcreator.neotesting.init.TheLostRoomsModItems;
+import net.mcreator.neotesting.init.TheLostRoomsModBlocks;
+
 import net.fabricmc.api.ModInitializer;
 
 public class TheLostRoomsMod implements ModInitializer {
@@ -24,6 +28,11 @@ public class TheLostRoomsMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		LOGGER.info("Initializing TheLostRoomsMod");
+
+		TheLostRoomsModTabs.load();
+
+		TheLostRoomsModBlocks.load();
+		TheLostRoomsModItems.load();
 
 	}
 }

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "the_lost_rooms:block/lvl0insidewall",
+    "up": "the_lost_rooms:block/lvl0insidewall",
+    "north": "the_lost_rooms:block/lvl0wall",
+    "east": "the_lost_rooms:block/lvl0wall",
+    "south": "the_lost_rooms:block/lvl0wall",
+    "west": "the_lost_rooms:block/lvl0wall",
+    "particle": "the_lost_rooms:block/lvl0insidewall"
+  },
+  "render_type": "solid"
+}
