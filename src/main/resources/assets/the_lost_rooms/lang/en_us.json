@@ -1,5 +1,8 @@
 {
   "block.the_lost_rooms.level_0_wall": "Level 0 Wall",
   "block.the_lost_rooms.level_0_floor": "Level 0 Floor",
-  "item_group.the_lost_rooms.the_lost_rooms": "The Lost Rooms"
+  "block.the_lost_rooms.level_0_roof": "Level 0 Roof",
+  "block.the_lost_rooms.level_0_light": "Level 0 Light",
+  "item_group.the_lost_rooms.the_lost_rooms": "The Lost Rooms",
+  "block.the_lost_rooms.level_0_light_off": "Level 0 Light"
 }

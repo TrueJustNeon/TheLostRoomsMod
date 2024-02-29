@@ -2,6 +2,9 @@
   "replace": false,
   "values": [
     "the_lost_rooms:level_0_floor",
-    "the_lost_rooms:level_0_wall"
+    "the_lost_rooms:level_0_wall",
+    "the_lost_rooms:level_0_roof",
+    "the_lost_rooms:level_0_light",
+    "the_lost_rooms:level_0_light_off"
   ]
 }
